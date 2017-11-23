@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:3:7-48
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:6:5-18:19
+	android:label
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:6:60-92
+	android:icon
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:6:18-59
+activity#com.exercise.AndroidWifiMonitor.AndroidWifiMonitor
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:7:9-13:20
+	android:label
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:8:19-51
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:7:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:11:27-74
+activity#com.exercise.AndroidWifiMonitor.Map
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:14:9-49
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:14:19-37
+activity#com.exercise.AndroidWifiMonitor.MapSearch
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:15:9-55
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:15:19-43
+activity#com.exercise.AndroidWifiMonitor.ListLocation
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:16:9-58
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:16:19-46
+activity#com.exercise.AndroidWifiMonitor.FingerPrint
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:17:9-57
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:17:19-45
+uses-sdk
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:19:5-43
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:19:5-43
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:19:5-43
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:19:5-43
+INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:19:5-43
+	android:targetSdkVersion
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:19:5-43
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:19:15-40
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:22:2-73
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:22:19-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:23:2-73
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:23:19-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:24:2-76
+	android:name
+		ADDED from D:\CPE\SeniorProject\AndroidWifiMonitor - Backup\app\src\main\AndroidManifest.xml:24:19-73

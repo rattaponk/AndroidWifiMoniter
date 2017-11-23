@@ -1,0 +1,4 @@
+#Wed Nov 22 22:38:44 ICT 2017
+base.0=D\:\\CPE\\SeniorProject\\AndroidWifiMonitor - Backup\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.0=classes.dex
+renamed.0=classes.dex
